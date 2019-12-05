@@ -9,3 +9,6 @@ Solutions to the [AoC 2019](https://adventofcode.com/) (in Swift).
 * Day 3
   * [✓] Part 1
   * [✓] Part 2
+* Day 4
+  * [✓] Part 1
+  * [✓] Part 2
